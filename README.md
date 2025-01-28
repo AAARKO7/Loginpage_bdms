@@ -12,8 +12,8 @@ id: 11220321013
 7. col 2 = firstname{varchar(50)}
 8. col 3 = lastname{varchar(50)}
 9. col 4 = email{varchar(100)}
-10. col 5 = password{varchar(100)} and save.
-11.After this go to: http://localhost/DBMS_Login_Page/
+10. col 5 = password{varchar(100)} and save
+11. 11.After this go to: http://localhost/DBMS_Login_Page/
 
 Now we can run the login page project!!
     !! HURRAY !!
